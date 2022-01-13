@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OWtest</string>
+
+    <string name="buttonNext_text">Далее</string>
+</resources>
